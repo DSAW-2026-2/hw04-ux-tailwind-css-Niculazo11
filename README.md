@@ -1,3 +1,6 @@
+# Nicolas Moreno Parra
+URL: https://dsaw-2026-2.github.io/hw04-ux-tailwind-css-Niculazo11/
+
 # HW04 — UX + Tailwind CSS
 
 **Week 4 · DSAW · Universidad de La Sabana**
@@ -31,6 +34,8 @@ The dark mode toggle must persist across page reloads using `localStorage`.
 
 - Did you use AI to generate Tailwind classes? Did you also use it for the wireframes?
 - What did you learn about Tailwind that you wouldn't have learned if AI had done everything?
+
+We did not used AI for tailwind, only to learn a bit. We used AI for the wireframes caus we had already the figma of all the pages. We learned how towrite properly the tailwind outside from the functions
 
 ## Deployment
 
